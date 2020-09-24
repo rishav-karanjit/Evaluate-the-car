@@ -1,3 +1,11 @@
-#Evaluate the car using KNN Algorithm
+# Evaluate the car using KNN Algorithm
 
-<li>Dataset: https://archive.ics.uci.edu/ml/machine-learning-databases/car/</li>
+<li>This project is a simple example of KNN algorithm</li>
+<li>Dataset: https://archive.ics.uci.edu/ml/machine-learning-databases/car/ </li>
+<li>Runing the project:</li>
+  <ol>
+  <li>pip install -r requirements.txt</li>
+  <li>python main.py</li>
+  </ol>
+<li>Output:</li>
+  <img src="https://github.com/rishav-karanjit/Evaluate-the-car/blob/master/Output.png"></img>
